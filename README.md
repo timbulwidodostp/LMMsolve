@@ -1,6 +1,8 @@
 # LMMsolver
 Solve Linear Mixed Models using Restricted (residual) Maximum Likelihood (REML) Use LMMsolve (LMMsolver) With (In) R Software
 
+https://www.youtube.com/watch?v=12UVwU5miOo
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
